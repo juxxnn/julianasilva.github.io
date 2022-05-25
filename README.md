@@ -1,11 +1,13 @@
 ![GitHub](https://img.shields.io/github/license/juxxnn/julianasilva.github.io)
 ![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/julianasilva.github.io)
+![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/julianasilva.github.io)
+
 
 
 <h1 align='center'>CV - Juliana Silva</h1>
 
 
-Clique [aqui](https://pages.github.com/juxxnn/julianasilva.github.io) para acessar meu currículo.
+Clique [aqui](https://juxxnn.github.io/julianasilva.github.io/) para acessar meu currículo.
 
 
 O currículo online foi realizado através das aulas do curso Git e Github: Essencial p/ Programadores | [UDEMY](https://www.udemy.com/pt/)
