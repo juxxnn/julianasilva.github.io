@@ -1,7 +1,13 @@
+![GitHub](https://img.shields.io/github/license/juxxnn/julianasilva.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/julianasilva.github.io)
+![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/julianasilva.github.io)
+
+
+
 <h1 align='center'>CV - Juliana Silva</h1>
 
 
-Clique [aqui](https://pages.github.ibm.com/julianasilva/julianasilva.github.io) para acessar meu currículo.
+Clique [aqui](https://juxxnn.github.io/julianasilva.github.io/) para acessar meu currículo.
 
 
 O currículo online foi realizado através das aulas do curso Git e Github: Essencial p/ Programadores | [UDEMY](https://www.udemy.com/pt/)
@@ -17,7 +23,10 @@ O currículo online foi realizado através das aulas do curso Git e Github: Esse
 -------------------
 
 <br>
-💗 Feito por <a href="https://github.com/julianasilva">Juliana Silva</a>
+O repositório se encontra sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/julianasilva.github.io/blob/main/LICENSE">license</a>.
+<br>
+Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
+
 
 
 
